@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\migrations\\20240911130941_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:migrations\\20240911130941_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\task-management-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:task-management-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|c:\\users\\ritik.pal\\source\\repos\\task-management-system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F048D03C-2C5B-4E03-A9AA-B86F61840B9D}|Task-Management-System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240911130941_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Migrations\\20240911130941_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240911130941_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Migrations\\20240911130941_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240911130941_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:09:41.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calender.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Calender.cs",
+              "RelativeDocumentMoniker": "Models\\Calender.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Calender.cs",
+              "RelativeToolTip": "Models\\Calender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:37:25.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Reminder.cs",
+              "RelativeDocumentMoniker": "Models\\Reminder.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Reminder.cs",
+              "RelativeToolTip": "Models\\Reminder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:37:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Reports.cs",
+              "RelativeDocumentMoniker": "Models\\Reports.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Reports.cs",
+              "RelativeToolTip": "Models\\Reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:35:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Comments.cs",
+              "RelativeToolTip": "Models\\Comments.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:37:34.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectMember.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\ProjectMember.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectMember.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\ProjectMember.cs",
+              "RelativeToolTip": "Models\\ProjectMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:36:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Notifications.cs",
+              "RelativeDocumentMoniker": "Models\\Notifications.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Notifications.cs",
+              "RelativeToolTip": "Models\\Notifications.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:35:26.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:32:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Files.cs",
+              "RelativeDocumentMoniker": "Models\\Files.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\Files.cs",
+              "RelativeToolTip": "Models\\Files.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:32:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:18:02.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T09:18:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T09:44:03.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T09:08:15.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task-Management-System.csproj",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Task-Management-System.csproj",
+              "RelativeDocumentMoniker": "Task-Management-System.csproj",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Task-Management-System.csproj",
+              "RelativeToolTip": "Task-Management-System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T13:23:22.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:55:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ritik.pal\\source\\repos\\Task-Management-System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T10:46:00.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
